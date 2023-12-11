@@ -1,0 +1,7 @@
+[10:06:22.483][info] [#0:script/client.lua:657]: Client init	{
+  rootUri = "file:///home/theuser/.config/nvim/lua/custom/lua-language-server/test_root/"
+}
+[10:06:22.484][info] [#0:script/language.lua:137]: VSC language: zh-cn
+[10:06:22.484][info] [#0:script/language.lua:138]: LS  language: zh-cn
+[10:06:22.484][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/theuser/.config/nvim/lua/custom/lua-language-server/test_root/
+[10:06:22.484][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/theuser/.config/nvim/lua/custom/lua-language-server/log/file_home_theuser_.config_nvim_lua_custom_lua-language-server_test_root_.log

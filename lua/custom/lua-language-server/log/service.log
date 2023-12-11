@@ -1,0 +1,27 @@
+[10:11:24.977][info] [#0:/home/theuser/.config/nvim/lua/custom/lua-language-server/main.lua:66]: Lua Lsp startup, root: 	/home/theuser/.config/nvim/lua/custom/lua-language-server
+[10:11:24.978][info] [#0:/home/theuser/.config/nvim/lua/custom/lua-language-server/main.lua:67]: ROOT:	/home/theuser/.config/nvim/lua/custom/lua-language-server
+[10:11:24.978][info] [#0:/home/theuser/.config/nvim/lua/custom/lua-language-server/main.lua:68]: LOGPATH:	/home/theuser/.config/nvim/lua/custom/lua-language-server/log
+[10:11:24.978][info] [#0:/home/theuser/.config/nvim/lua/custom/lua-language-server/main.lua:69]: METAPATH:	/home/theuser/.config/nvim/lua/custom/lua-language-server/meta
+[10:11:24.979][info] [#0:/home/theuser/.config/nvim/lua/custom/lua-language-server/main.lua:70]: VERSION:	3.7.1-dev
+[10:11:25.027][info] [#0:script/service/service.lua:144]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 2.140 MB
+        # 00 : 2.140 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================

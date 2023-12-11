@@ -1,0 +1,10 @@
+{
+    "runtime.special": {
+        "kx": "require",
+        "ky": "require",
+        "kz": "require"
+    },
+    "workspace.library": [
+        "/home/theuser/.config/nvim/lua/custom/lua-language-server/meta/default utf8"
+    ]
+}
