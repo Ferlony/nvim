@@ -14,7 +14,10 @@ local plugins = {
         "ruff",
         "pyright",
         "black",
-        "clangd"
+        "clangd",
+        "html-lsp",
+        "css-lsp",
+        "biome"
       },
     },
   },
